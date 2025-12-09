@@ -1,24 +1,3 @@
-<div style="
-  position: sticky;
-  top: 0;
-  background: #f8f9fa;
-  padding: 10px 15px;
-  z-index: 100;
-  border-bottom: 2px solid #007bff;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  font-family: Arial, sans-serif;
-  border-radius: 0 0 8px 8px;
-">
-  <a href="README.md" style="
-    text-decoration: none;
-    color: #007bff;
-    font-weight: bold;
-    font-size: 14px;
-  ">
-    ← Back to Home
-  </a>
-</div>
-
 # ListIterator Interface
 
 ## **Overview**
